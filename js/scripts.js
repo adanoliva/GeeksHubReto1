@@ -10,6 +10,9 @@ window.onload = function() {
             cargacontacto() 
         }
     }
+    else{
+        cargainicio() 
+    }
   };
 
 
